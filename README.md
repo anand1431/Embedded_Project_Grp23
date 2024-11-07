@@ -1,4 +1,4 @@
-DCA Piano
+DAC Piano
 
 Problem Statement:
 Design and implement a digital piano on a Tiva microcontroller using a Digital-to-Analog Converter (DAC) to produce musical notes. 
